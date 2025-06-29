@@ -16,9 +16,9 @@
     ],
     "secrets_store_secrets": [
         {
-            "store_id": "<YOUR-STORE-ID>",
+            "store_id": "3545cb4a7c8f4001995a35fda68266ea",
             "binding": "SECRET",
-            "secret_name": "<YOUR-SECRET-NAME>"
+            "secret_name": "d1-rest-secret"
         }
     ],
 	"observability": {
